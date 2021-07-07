@@ -10,3 +10,6 @@ https://helpcenter.veeam.com/docs/backup/hyperv/pre_post_scripts.html?ver=110
 
 # Attention
 To get application-consistent backup and due to some limitations of MariaDB, database server is shut down by this script for several seconds while VBR makes it's snapshot. DATABASE IS UNVAILABLE while snapshot is created.
+
+# Status
+Improvements are welcome
