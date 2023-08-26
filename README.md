@@ -1,4 +1,4 @@
-# sh-veeam-mariadb-backup
+# veeam-mariadb-backup
 MariaDB/MySQL application-consistent cold backup with Veeam B&amp;R, DB DOWNTIME REQUIRED
 
 # How to use:
